@@ -147,7 +147,4 @@ Review regression analysis workbook for model details
 Use the Power BI & presentation assets for visualization and storytelling
 
 👤 About the Author 
-Vikram Bhagnani 
-Data Analyst | Analytics Enthusiast 
-📍 Ahmedabad, India 
-🔗 https://github.com/VikramBhagnani
+Vikram Bhagnani Data Analyst | Business Analyst 📧 bhagnanai.vikram77@gmail.com 🔗 GitHub: https://github.com/VikramBhagnani 🔗 LinkedIn: https://www.linkedin.com/in/vikram-g-bhagnani-61529b22a/
