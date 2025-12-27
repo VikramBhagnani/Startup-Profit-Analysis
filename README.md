@@ -92,38 +92,23 @@ The regression model suggests that strategic investment in R&D and marketing cor
 
 Startup-Profit-Analysis/
 │
-
 ├── data/
-
 │ └── startup_dataset.csv
 │
-
 ├── excel/
-
 │ └── Regression Analysis.xlsx
-
 │
 ├── powerbi/
-
 │ └── Profit_Insights_PowerBI.pdf
-
 │
 ├── presentation/
-
 │ ├── Startup_Profit_Presentation.pdf
-
 │ └── Startup_Profit_Presentation.pptx
-
 │
 ├── documentation/
-
 │ └── Project_Requirements.docx
-
 │
 └── README.md
-
-
----
 
 ## 🚀 How to Use This Repository
 
@@ -137,11 +122,7 @@ Review regression analysis workbook for model details
 Use the Power BI & presentation assets for visualization and storytelling
 
 👤 About the Author
-
 Vikram Bhagnani
-
 Data Analyst | Analytics Enthusiast
-
 📍 Ahmedabad, India
-
 🔗 https://github.com/VikramBhagnani
