@@ -91,24 +91,28 @@ The regression model suggests that strategic investment in R&D and marketing cor
 ## 📁 Folder & File Structure
 
 Startup-Profit-Analysis/
-│
+|
 ├── data/
-│ └── startup_dataset.csv
-│
+│   ├── startup_dataset.csv
+│   └── requirements_doc.pdf   (Client Requirements)
+|
 ├── excel/
-│ └── Regression Analysis.xlsx
-│
+│   └── Regression_Analysis.xlsx
+|
 ├── powerbi/
-│ └── Profit_Insights_PowerBI.pdf
-│
-├── presentation/
-│ ├── Startup_Profit_Presentation.pdf
-│ └── Startup_Profit_Presentation.pptx
-│
-├── documentation/
-│ └── Project_Requirements.docx
-│
+│   ├── dashboard.pbix
+│   └── dashboard_screenshots/
+│       ├── overview.png
+│       ├── profit_trends.png
+│       ├── spending_analysis.png
+│       └── regression_insights.png
+|
+├── reports/
+│   ├── Project_Presentation.pdf
+│   └── Case_Study_Report.docx
+|
 └── README.md
+
 
 ## 🚀 How to Use This Repository
 
